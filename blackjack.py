@@ -13,7 +13,7 @@ def introductions():
         print "No need for rules. Let's see how good you are!"
 
 
-def prints_blackjack_rules(): # will write this later
+def prints_blackjack_rules():
     """prints rules of blackjack"""
     print """
     When prompted, you will enter the amount of money you would like to gamble today and then told to enter your bet. You will then be dealt two cards. Your objective is to beat the dealer and get a hand value as close to 21 as possible without going over. Aces are worth 11 or 1, face cards are worth 10, and numbered cards are worth their value.
